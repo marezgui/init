@@ -1,1 +1,1 @@
-ifconfig en1 | grep ether
+networksetup -getmacaddress Wi-Fi

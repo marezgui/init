@@ -1,1 +1,1 @@
-service sshd restart
+sudo service sshd restart

@@ -1,1 +1,1 @@
-ping 10.51.1.253
+ipconfig getifaddr en0
